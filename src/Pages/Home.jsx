@@ -25,7 +25,7 @@ function Home() {
     <div className='mt-6 mx-auto w-70 h-96'>
       <div className="flex flex-col justify-center items-center gap-4 mt-9 bg-blue-100 relative rounded-2xl py-40 h-56">
        <p className='text-center font-light'> there is tow number click on any button to see Result</p>
-        <div className='flex  gap-7'>
+        <div className='flex  gap-7 h'>
         <p className=' p-3 font-bold '>{firstNum}</p>
        <p className=' p-3  font-bold '>{secondNum}</p>
      
